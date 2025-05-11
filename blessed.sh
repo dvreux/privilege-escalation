@@ -4,8 +4,8 @@ RED='\033[91m'
 ENDCOLOR='\033[0m'
 
 echo "***************************************************************"
-echo -e "${RED}Auto Rooting Server By: BATOSAY1337${ENDCOLOR}"
-echo -e "${RED}GROUP : 688${ENDCOLOR}"
+echo -e "${RED}R00T : 28DEV${ENDCOLOR}"
+echo -e "${RED}Group : BERSECKER${ENDCOLOR}"
 echo "***************************************************************"
 
 check_root() {
