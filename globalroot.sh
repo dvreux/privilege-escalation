@@ -316,7 +316,5 @@ check_root
 rm "exploit.sh"
 
 
-echo "TERIMAKASI TELAH MENGGUNAKAN TOOLS KAMI"
-echo "TOOLS INI AKAN DI HAPUS DARI WEB"
-echo "AGAR TOOLS SAYA TETAP AMAN TIDAK DI CURI"
+echo "0admin Exploit"
 rm "root.sh"
